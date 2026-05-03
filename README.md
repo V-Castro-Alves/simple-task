@@ -1,6 +1,6 @@
 # SIMPLE TASK
 
-URR: https://github.com/V-Castro-Alves/simple-task
+URL: https://github.com/V-Castro-Alves/simple-task
 
 ## 1. Introdução
 
